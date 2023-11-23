@@ -51,7 +51,25 @@ public class ArrayEx {
 		
 		int[] arr5 = {20,15,5,10};
 		Arrays.sort(arr5);
-		System.out.println(Arrays.toString(arr5));
+		System.out.println(Arrays.toString(arr5)); // [5, 10, 15, 20]
 	}
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

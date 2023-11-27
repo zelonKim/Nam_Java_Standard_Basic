@@ -1,4 +1,4 @@
-package pkg3;
+package poly1;
 
 class Tv {
 	boolean onOff;
@@ -30,7 +30,7 @@ class SmartTv extends Tv {  // »ó¼Ó
 
 
 
-public class polyEx {
+public class polyEx1 {
 	public static void main(String[] args) {
 	/*
 		Tv tv = new Tv();

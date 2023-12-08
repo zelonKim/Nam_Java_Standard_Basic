@@ -34,7 +34,7 @@ public class StreamEx6 {
 //		System.out.println(optI1.isPresent()); // true
 //		System.out.println(optI2.isPresent()); // false
 		
-		System.out.println(optI1.equals(optI2)); // false
+//		System.out.println(optI1.equals(optI2)); // false
 	}
 
 }
